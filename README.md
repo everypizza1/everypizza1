@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![DerryKTutt's GitHub stats](https://github-readme-stats.vercel.app/api?username=derryktutt&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
+![My Stats!](https://github-readme-stats.vercel.app/api?username=derryktutt&show_icons=true&bg_color=DEG,fa9372,e67097&title_color=fff&text_color=fff)
 <!--
 **derryktutt/derryktutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
