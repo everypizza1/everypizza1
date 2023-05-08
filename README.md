@@ -1,5 +1,5 @@
 # Hi! 👋
-![My Stats!](https://github-readme-stats.vercel.app/api?username=everypizza1&show_icons=true&bg_color=DEG,fa9372,e67097&title_color=fff&text_color=fff)
+![My Stats!](https://github-readme-stats.vercel.app/api?username=everypizza1&show_icons=true&bg_color=DEG,3a00ff,0097ff&title_color=fff&text_color=fff&border_radius=8&show_owner=true)
 <!--
 **derryktutt/derryktutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
